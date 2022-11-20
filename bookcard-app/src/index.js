@@ -8,7 +8,7 @@ import {Card,SubtractNumber} from './Ebookcard';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Card SubtractNumber/>
+    <SubtractNumber/>
   </React.StrictMode>
 );
 
